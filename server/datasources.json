@@ -1,0 +1,12 @@
+{
+  "mysqlDs": {
+    "host": "db4free.net",
+    "port": 3306,
+    "url": "",
+    "database": "blockchaintut",
+    "password": "sd456852",
+    "name": "mysqlDs",
+    "user": "mcomet",
+    "connector": "mysql"
+  }
+}
